@@ -58,7 +58,7 @@ A web page to manage and split water bubble expenses between roommates using **H
   <a href="https://leetcode.com/begarivivek" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />
   </a>
-  <a href="https://www.codechef.com/users/begarivivek" target="_blank">
+  <a href="https://www.codechef.com/users/vivek_bittu" target="_blank">
     <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="CodeChef" width="40" height="40" />
   </a>
   <a href="https://x.com/vivek___bittu" target="_blank">
