@@ -1,6 +1,6 @@
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=300&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vivek;Java+%7C+Web+Dev+%7C+DSA+Enthusiast;Welcome+to+my+GitHub+Journey!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=300&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vivek;Java+%7C+Web+Dev+%7C+DSA;Welcome+to+my+GitHub+Journey!" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 Passionate about Building & Solving with Code</h3>
