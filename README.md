@@ -86,10 +86,3 @@ A web page to manage and split water bubble expenses between roommates using **H
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=begarivivek&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
-
----
-
----
-
-### ✨ Random Quote
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" style="border: 1px solid #444; border-radius: 10px; padding: 10px;" />
