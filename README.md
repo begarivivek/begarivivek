@@ -28,7 +28,7 @@
 ### 📈 Customer Churn Prediction  
 A machine learning model using Python to predict if a customer is likely to churn — implemented in Jupyter Notebook.
 
-### 💧 Hydration Expense Tracker - PHP + MySQL  
+### 💧 Hydration Expense Tracker  
 A web page to manage and split water bubble expenses between roommates using **HTML + CSS + JavaScript**.
 
 ---
