@@ -92,8 +92,4 @@ A web page to manage and split water bubble expenses between roommates using **H
 ---
 
 ### ✨ Random Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" style="border: 1px solid #444; border-radius: 10px; padding: 10px;" />
